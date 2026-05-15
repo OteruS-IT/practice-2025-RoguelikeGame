@@ -1,0 +1,39 @@
+baseURL = "https://username.github.io/practice-2025-RoguelikeGame/"
+locale = 'ru-ru'
+title = "Steamleaf"
+theme = "ananke"
+background_color_class = "bg-dark-gray"
+
+[menu]
+
+  [[menu.main]]
+    name = "О проекте"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Участники"
+    url = "/team/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Журнал"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 4
+
+
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+      [module]
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'

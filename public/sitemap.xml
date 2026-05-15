@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/posts/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/posts/post3/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/posts/post2/</loc>
+    <lastmod>2026-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/posts/post1/</loc>
+    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/team/</loc>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/practice-2025-RoguelikeGame/resources/</loc>
+  </url>
+</urlset>
